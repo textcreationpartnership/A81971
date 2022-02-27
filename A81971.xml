@@ -1,0 +1,1119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seventh and last canto of the third book of Gondibert never yet printed. By Sir William Davenant.</title>
+            <title>Gondibert</title>
+            <author>D'Avenant, William, Sir, 1606-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81971</idno>
+            <idno type="STC">Wing D338</idno>
+            <idno type="STC">ESTC R224872</idno>
+            <idno type="EEBO-CITATION">99900061</idno>
+            <idno type="PROQUEST">99900061</idno>
+            <idno type="VID">132853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2512:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seventh and last canto of the third book of Gondibert never yet printed. By Sir William Davenant.</title>
+                  <title>Gondibert</title>
+                  <author>D'Avenant, William, Sir, 1606-1668.</author>
+               </titleStmt>
+               <extent>[4], 4, 6-45, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Miller and Joseph Watts at the Gilded Acorn in St. Paul's Church-Yard, over against the little north door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132853:1" rendition="simple:additions"/>
+            <pb facs="tcp:132853:1"/>
+            <p>THE SEVENTH And Laſt CANTO OF THE THIRD BOOK OF GONDIBERT, Never yet Printed.</p>
+            <p>By Sir <hi>William Davenant.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller</hi> and <hi>Joſeph Watts</hi> at the <hi>Gilded Acorn</hi> in St. <hi>Paul</hi>'s Church-Yard, over againſt the little North Door, 1685.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:132853:2"/>
+            <pb facs="tcp:132853:2"/>
+            <p>THis Seventh and Laſt <hi>Can<g ref="char:EOLhyphen"/>to</hi> of the Third Book of <hi>Gondibert,</hi> having layn long Buried in obſcurity, came not to Light till after the Impreſſion of Sir <hi>William Davenant</hi>'s Works: That this only Remain of that unparallel'd Heroick Po<g ref="char:EOLhyphen"/>em might not be loſt, it was thought fit to be Publiſhed, as well to Aſſert its true Genuine
+<pb facs="tcp:132853:3"/>Birth, as alſo to ſhow it Self not not to be Inferiour to the beſt of the other <hi>Canto's.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:132853:3"/>
+            <head>TO Sir WILLIAM DAVENANT, IN ANSWER TO THE <hi>Seventh Canto</hi> OF THE THIRD BOOK OF HIS GONDIBERT, Dedicated to my Father.</head>
+            <lg>
+               <l>O Happy Fire, whoſe Heat can thus controul</l>
+               <l>The Ruſt of Age, &amp; thaw the Froſt of Death;</l>
+               <l>That renders Man immortal, as his Soul.</l>
+               <l>And ſwells his Fame with everlaſting Breath.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:132853:4" rendition="simple:additions"/>
+               <l>Happy that hand, that unto Honours climb;</l>
+               <l>Can lift the Subject of his living Praiſe;</l>
+               <l>That reſcues Frailty from the Scyth of Time,</l>
+               <l>And equals Glory to the length of Days.</l>
+            </lg>
+            <lg>
+               <l>Such, Sir, in you, who uncontroul'd, as Fate</l>
+               <l>In the Black Boſom of Oblivions Night;</l>
+               <l>Can Suns of Immortality create,</l>
+               <l>To dazle Envy with prevailing Light.</l>
+            </lg>
+            <lg>
+               <l>In vain they ſtrive your glorious Lamp to hide</l>
+               <l>In this dark Lanthorn, to all Noble Minds;</l>
+               <l>Which through the ſmalleſt cranny is deſcry'd,</l>
+               <l>Whoſe Force united, no reſiſtance finds.</l>
+            </lg>
+            <lg>
+               <l>Bleſt be my Father, who has found his Name</l>
+               <l>Among the Heroes, by your Pen reviv'd;</l>
+               <l>By Running in Times Wheel, his thriving Fame</l>
+               <l>Shall ſtill more youthful grow, and longer liv'd.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:132853:4"/>
+               <l>Had <hi>Alexander</hi>'s Trophies thus been rear'd,</l>
+               <l>And in the Circle of your Story come;</l>
+               <l>The ſpacious Orb full well he might have ſpar'd,</l>
+               <l>And reapt his diſtant Victories at home.</l>
+            </lg>
+            <lg>
+               <l>Let men of greater Wealth than Merit, caſt</l>
+               <l>Medals of Gold for their ſucceeding part;</l>
+               <l>That Paper Monument ſhall longer laſt,</l>
+               <l>Than all the Rubbiſh of decaying Art.</l>
+            </lg>
+         </div>
+         <div type="publishers_advertisement">
+            <pb n="8" facs="tcp:132853:5"/>
+            <p>At the <hi>Gilded Acorn</hi> in St. <hi>Paul</hi>'s Church-Yard, all Perſons may be furniſhed with moſt ſorts of Acts of Parliament, Proclamations, Declarations, Orders of King and Council, Speeches of King, Lord Chancellor and Speaker in Parliament; with moſt other Speeches, Orders, and Votes of Parli<g ref="char:EOLhyphen"/>ament, Letters, Articles of Viſitation and Religi<g ref="char:EOLhyphen"/>on, Articles of Peace and Commerce, <hi>&amp;c.</hi> Ser<g ref="char:EOLhyphen"/>mons on moſt Occaſions and Texts of Scripture, Controverſies about Church Government, <hi>&amp;c.</hi> Books of Divinity, with variety of Hiſtory Books, of Husbandry, Poetry, Plays, School-Books, Controverſies between the Proteſtant and Papiſt, Collection of Gazets and other News-Books, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="9" facs="tcp:132853:5"/>
+            <head>THE <hi>Seventh Canto</hi> OF THE THIRD BOOK Dedicated to <hi>CHARLES COTTON</hi> Eſq;</head>
+            <argument>
+               <head>The ARGUMENT.</head>
+               <lg>
+                  <l>
+                     <hi>Wakt by the Duke's Adoption,</hi> Hubert <hi>brings</hi>
+                  </l>
+                  <l>Borgio <hi>beneath the ſhade of Nights black Wings,</hi>
+                  </l>
+                  <l>
+                     <hi>To dark</hi> Verona: Orna <hi>is betray'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Hurgonil, <hi>not Jealous, but diſmay'd.</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Chiefs <hi>their Paſſions vent to</hi> Hermegild,</l>
+                  <l>
+                     <hi>But ſoon to</hi> Gartha<hi>'s braver Paſſion yield.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <pb n="10" facs="tcp:132853:6"/>
+               <head>1.</head>
+               <l>UNlucky Fire, which tho from Heaven deriv'd,</l>
+               <l>Is brought too late like Cordials to the Dead,</l>
+               <l>When all are of their Sovereign ſence depriv'd,</l>
+               <l>And Honour which my rage ſhould warm is fled.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>Dead to Heroick Song this Iſle appears,</l>
+               <l>The ancient Muſick of Victorious Verſe:</l>
+               <l>They taſt no more, than he his Dirges hears,</l>
+               <l>Whoſe uſeleſs Mourners ſing about his Herſe.</l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Yet ſhall this Sacred Lamp in Priſon burn,</l>
+               <l>And through the darkſom Ages hence invade</l>
+               <l>The wondring World, like that in <hi>Tullie</hi>'s Urn,</l>
+               <l>Which tho by time conceal'd, was not decay'd.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:132853:6"/>
+               <head>4.</head>
+               <l>And <hi>Charles</hi> in that more civil Century,</l>
+               <l>When this ſhall wholly fill the Voyce of Fame,</l>
+               <l>The buſie Antiquaries then will try</l>
+               <l>To find amongſt their Monarchs Coins thy Name.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>They will admire thy force gainſt <hi>Gothick</hi> rage,</l>
+               <l>Thy Head of <hi>Athens,</hi> and thy Woman breaſt,</l>
+               <l>Which reſcu'd theſe Records in a rude Age,</l>
+               <l>When the free Arts were frighted, and oppreſt.</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>If they who read thy Victories, thus confeſt,</l>
+               <l>Find not thy wreathed Image, their blind Skill</l>
+               <l>In gath'ring Monarchs Medals, they'll deteſt,</l>
+               <l>And think they made their long Collections ill.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:132853:7"/>
+               <head>7.</head>
+               <l>They'll highly bleſs thy Vertue, by whoſe Fire</l>
+               <l>I keep my Lawrel warm, which elſe would ſade,</l>
+               <l>And thus enclos'd, think me of Nature's Quire</l>
+               <l>The chief, who ſtill ſing ſweeteſt in the ſhade.</l>
+            </lg>
+            <lg>
+               <head>8.</head>
+               <l>To Fame who rules the World, I lead thee now,</l>
+               <l>Whoſe ſolid Power the thoughtful underſtand,</l>
+               <l>Whom tho too late, weak Princes to her Bow,</l>
+               <l>The People ſerve, and Poets can command.</l>
+            </lg>
+            <lg>
+               <head>9.</head>
+               <l>And Fame the only Guide to Empires paſt,</l>
+               <l>Shall to <hi>Verona</hi> lead thy Fancie's Eyes,</l>
+               <l>When Night ſo black a Robe on Nature caſt,</l>
+               <l>As Nature ſeem'd afraid of her Diſguiſe.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:132853:7"/>
+               <head>10.</head>
+               <l>Ambitious <hi>Hubert</hi> to <hi>Verona</hi> came</l>
+               <l>In the dark Reign of Univerſal Sleep;</l>
+               <l>And means no Tears ſhall quench his Angers flame,</l>
+               <l>Tho all the Dwellers muſt be wak'd to weep.</l>
+            </lg>
+            <lg>
+               <head>11.</head>
+               <l>Till Fame had made the Duke's Adoption known,</l>
+               <l>He painfully ſuppreſt this raging Fire;</l>
+               <l>But now it was above his Conduct grown,</l>
+               <l>And <hi>Bergio</hi> thus provok'd it to aſpire.</l>
+            </lg>
+            <lg>
+               <head>12.</head>
+               <l>Thy Wealth, thou painted City, who ſhall ſaye?</l>
+               <l>Black art thou now, and ſleep thy buſineſs ſeems;</l>
+               <l>Each dark abode is ſilent as the Grave,</l>
+               <l>Thy ſleep were perfect Death if Death had Dreams.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:132853:8"/>
+               <head>13.</head>
+               <l>Thou civil Crowd of ſoft Inhabitants,</l>
+               <l>Sleep and forget thy Crimes; may <hi>Adice</hi>
+               </l>
+               <l>No more relieve thy thirſty Medows wants,</l>
+               <l>But ſwelling here; thy drowning <hi>Lethe</hi> be.</l>
+            </lg>
+            <lg>
+               <head>14.</head>
+               <l>Wake but to kindle luſt, and boldly think</l>
+               <l>Heaven has no Eyes, but the departed Sun;</l>
+               <l>May thy new marri'd at Adult'ries wink,</l>
+               <l>Both ſoon ſeek Strangers, and each other ſhun.</l>
+            </lg>
+            <lg>
+               <head>15.</head>
+               <l>Sleep you who Ruin States by Trades Encreaſe,</l>
+               <l>Rich Traffickers who fetch thoſe Toyes from far,</l>
+               <l>Which ſoften us at home, you plead for Peace,</l>
+               <l>Becauſe our Luxuries we quit in War.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:132853:8"/>
+               <head>16.</head>
+               <l>Sleep as ſecurely as your Carricks ſteer,</l>
+               <l>When in deep Seas your Gale is from the Eaſt,</l>
+               <l>You and Your Pilots want the Art to fear</l>
+               <l>The ſuddain Tempeſt breeding in my Breaſt.</l>
+            </lg>
+            <lg>
+               <head>17.</head>
+               <l>You Stateſmen ſleep, who States tame Lyons be</l>
+               <l>For you and Lyons ſleep with open Eyes,</l>
+               <l>And ſhut 'em when you wake, you ſeem to ſee</l>
+               <l>Through darkneſs, and with Wink your ſight diſ<g ref="char:EOLhyphen"/>guiſe.</l>
+            </lg>
+            <lg>
+               <head>18.</head>
+               <l>Sleep you Oppreſſors, Monſters quickly bred,</l>
+               <l>When private Will is joyn'd to publick Power,</l>
+               <l>Like Bears in Winter long by ſlumber fed,</l>
+               <l>You wake with Hunger, that would Herds devour.</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:132853:9"/>
+               <head>19.</head>
+               <l>Sleep all, till waking each with raviſht Mind,</l>
+               <l>Shall the ſtrange Glory of new Light admire,</l>
+               <l>And thinking 'tis the Morn, Curſe when ye find,</l>
+               <l>Your City is become your Funeral Fire.</l>
+            </lg>
+            <lg>
+               <head>20.</head>
+               <l>
+                  <hi>Bargio</hi> did <hi>Hubert</hi>'s Fury thus excite,</l>
+               <l>Which from his darkn'd thoughts breaks through his Eyes</l>
+               <l>As ſuddainly as Morning breaks from Night,</l>
+               <l>Oh glorious <hi>Chiefs</hi> from ſleep to Battle riſe.</l>
+            </lg>
+            <lg>
+               <head>21.</head>
+               <l>And now the Morn in ſuddain Glory roſe,</l>
+               <l>And to ſalute the World, ſhifts from his Face</l>
+               <l>Night's Veil, as faſt as Bolder unmask to thoſe</l>
+               <l>Whom they ſaluting, would with kindneſs Grace.</l>
+            </lg>
+            <lg>
+               <pb n="17" facs="tcp:132853:9"/>
+               <head>22.</head>
+               <l>To reſtleſs <hi>Hubert, Borgio</hi> leads the way,</l>
+               <l>Near <hi>Orna</hi>'s Window <hi>Hurgonil</hi> he ſpies,</l>
+               <l>Who there with Muſick welcomes Break of Day,</l>
+               <l>And as the Lark the Eaſt ſalutes her Eyes.</l>
+            </lg>
+            <lg>
+               <head>23.</head>
+               <l>For there at ev'ry dawn with Lovers layes,</l>
+               <l>Till this ſweet Moon ſhall end their nuptial Rites,</l>
+               <l>And Joyes begin, he love <hi>Reveillees</hi> payes,</l>
+               <l>Which made their morning ſweet as Lovers nights,</l>
+            </lg>
+            <lg>
+               <head>24.</head>
+               <l>Such Aires the untun'd <hi>Borgio</hi> ill abides,</l>
+               <l>For Muſick which is ſo the Soul of Love,</l>
+               <l>As Love is of our Life, his Soul derides,</l>
+               <l>Whom only Drums ambitions Noice could move.</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:132853:10"/>
+               <head>25.</head>
+               <l>He oft ſends back, as he does forward paſs,</l>
+               <l>His fatal Looks, which did the Count leſs awe</l>
+               <l>Than did that Amorous, but more dreadful Face,</l>
+               <l>Which he too ſoon in <hi>Orna</hi>'s window ſaw,</l>
+            </lg>
+            <lg>
+               <head>26.</head>
+               <l>For there appear'd, tho but obliquely plac'd,</l>
+               <l>As ſhrunk behind the Glaſs, a Youth, who ſeem'd</l>
+               <l>Repleat with all thoſe Graces, which have grac'd</l>
+               <l>Great Courts, or greater Love has e'er eſteem'd.</l>
+            </lg>
+            <lg>
+               <head>27.</head>
+               <l>Such ſeem'd this Amorous Youth, who ſoon with<g ref="char:EOLhyphen"/>drew</l>
+               <l>His Looks, and ſhut the Caſement haſtily,</l>
+               <l>As if he only watch'd to ſcape from view,</l>
+               <l>By ſtealth would ſee, and to be ſeen was ſhy.</l>
+            </lg>
+            <lg>
+               <pb n="19" facs="tcp:132853:10"/>
+               <head>28.</head>
+               <l>A Youth, who thus his Beauty ſeems to hide,</l>
+               <l>So guiltlesſly in a ſuſpicious time,</l>
+               <l>And in the Chamber of a plighted Bride,</l>
+               <l>Might blot the whiteſt Vertue with a Crime.</l>
+            </lg>
+            <lg>
+               <head>29.</head>
+               <l>Yet this as Loves falſe Fire, the Count did ſcorn.</l>
+               <l>Grave <hi>Tybalt,</hi> who theſe Rites attended, ſeems</l>
+               <l>So loſt in Sleep, as if not yet the Morn</l>
+               <l>Were broke, and ranks his Viſion with his Dreams.</l>
+            </lg>
+            <lg>
+               <head>30.</head>
+               <l>Yet Jealouſie, which does by Thoughts ſubſiſt,</l>
+               <l>As Life by Air; grew ſtronger by their pauſe;</l>
+               <l>For they their Muſick ſilently diſmiſt,</l>
+               <l>And fearing ill Effects, muſt doubt the Cauſe.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:132853:11"/>
+               <head>31.</head>
+               <l>Muſick which here at <hi>Orna</hi>'s dawn had ſung,</l>
+               <l>For Love's Morn breaks not in a common Sky;</l>
+               <l>But now their Lutes did ſeem on Willows hung,</l>
+               <l>Where near ſome murmuring Brook dead Lovers lye.</l>
+            </lg>
+            <lg>
+               <head>32.</head>
+               <l>Wain Jealouſie, thou fruitful little Seed,</l>
+               <l>Tho ſingle, and as ſmall as Atoms ſown,</l>
+               <l>Yet faſter riſeth than a forward Weed,</l>
+               <l>In many Stems ſoon great and fully blown.</l>
+            </lg>
+            <lg>
+               <head>33.</head>
+               <l>'Tis Love's Alarm Bell too often hung</l>
+               <l>Near Lover's Beds, and keeps 'em ſtill awake;</l>
+               <l>Yet Noble <hi>Hurgonil,</hi> when firſt it rung,</l>
+               <l>Scarce ſeem'd to ſtart, and now thus calmly ſpake.</l>
+            </lg>
+            <lg>
+               <pb n="21" facs="tcp:132853:11"/>
+               <head>34.</head>
+               <l>Since Love the valiant Aids I muſt not dread</l>
+               <l>A Shadows force, and I ſhould vain appear,</l>
+               <l>To let my Eyes be by a Viſion led</l>
+               <l>From Her whoſe Image in my Heart I wear.</l>
+            </lg>
+            <lg>
+               <head>35.</head>
+               <l>Such Maiden Stratagems each plighted Bride,</l>
+               <l>Rul'd by her Virgin Counſel does deviſe;</l>
+               <l>And thus my Faith in <hi>Orna</hi> muſt be tri'd,</l>
+               <l>Faith's Fort is beſt attempted by Surpriſe.</l>
+            </lg>
+            <lg>
+               <head>36.</head>
+               <l>She as betroath'd does till this Moon be paſt,</l>
+               <l>And Marriage Laws begin by Cuſtom Sway,</l>
+               <l>And now ſhe tempts my Jealouſie to taſte</l>
+               <l>How I will Reign, when ſhe muſt long obey.</l>
+            </lg>
+            <lg>
+               <pb n="22" facs="tcp:132853:12"/>
+               <head>37.</head>
+               <l>That Youth her near Ally, ſuch harmleſs Art</l>
+               <l>Aſſiſts, which may to Country Eyes ſeem bold;</l>
+               <l>But Courts <hi>Elixir</hi> Vertue does convert</l>
+               <l>The worſt and moſt ſuſpected Coyn to Gold.</l>
+            </lg>
+            <lg>
+               <head>38.</head>
+               <l>
+                  <hi>Tybalt</hi> repll'd, this Tryal, <hi>Hurgonil,</hi>
+               </l>
+               <l>Exalts you both, it proves your love not light,</l>
+               <l>And ſhews that ſhe wants guilt to give her Skill,</l>
+               <l>Where to direct her Jealous Tryals right.</l>
+            </lg>
+            <lg>
+               <head>39.</head>
+               <l>Your ſolid healthful Love ſweats not away</l>
+               <l>At the faint Heat of Jealouſies pale Flame,</l>
+               <l>Nor even in Death will more than Souls decay,</l>
+               <l>Which dye not, but return from whence they came.</l>
+            </lg>
+            <lg>
+               <pb n="23" facs="tcp:132853:12"/>
+               <head>40.</head>
+               <l>And ſince her Tryal is ſo uſeleſs made,</l>
+               <l>Her Errour does her Innocence proclaim;</l>
+               <l>For as we trace ſtrange Thieves by known Thieve aid</l>
+               <l>So our own Guilt lights us to others Shame.</l>
+            </lg>
+            <lg>
+               <head>41.</head>
+               <l>The Guilty often wake, when Jealous grown,</l>
+               <l>To watch Love's Treaſons in another's Bed;</l>
+               <l>Yet after foul Adulteries in their own,</l>
+               <l>Sleep as ſecure from Terrors as the Dead.</l>
+            </lg>
+            <lg>
+               <head>42.</head>
+               <l>Thus as they homeward move, they timely draw</l>
+               <l>Diſcretion's Curtain o'r each others Eyes,</l>
+               <l>And would not ſee, what they with Sorrow ſaw,</l>
+               <l>Truth oft more modeſt ſeems in a Diſguiſe.</l>
+            </lg>
+            <lg>
+               <pb n="24" facs="tcp:132853:13"/>
+               <head>43.</head>
+               <l>Wiſe Nature does reprove our Jealouſie,</l>
+               <l>'Tis Fear, and Fear none willingly expreſs,</l>
+               <l>The Jealous ſhrink like Spies from every Spy,</l>
+               <l>And what they find with Honours leſs confeſs.</l>
+            </lg>
+            <lg>
+               <head>44.</head>
+               <l>But why (miſterious Love) to blemiſh Truth</l>
+               <l>In trueſt Lovers haſt thou Art devis'd?</l>
+               <l>Even in the Artleſs Sex, for that fair Youth</l>
+               <l>Was <hi>Gartha</hi> in a manly ſhape diſguis'd.</l>
+            </lg>
+            <lg>
+               <head>45.</head>
+               <l>Whoſe Beauty ſtoop'd to <hi>Hermegild</hi>'s advice,</l>
+               <l>And ſhe of <hi>
+                     <g ref="char:V">Ʋ</g>lpha, Orna</hi>'s Woman bought</l>
+               <l>The Jewel Honour at a common price,</l>
+               <l>And was by ſtealth to <hi>Orna</hi>'s Chamber brought.</l>
+            </lg>
+            <lg>
+               <pb n="25" facs="tcp:132853:13"/>
+               <head>46.</head>
+               <l>There ſhe in Night's black Boſom lay,</l>
+               <l>As in dark Lanthorns Light for Treaſon lyes,</l>
+               <l>And ſo when ſhe peep'd forth, 'twas to betray,</l>
+               <l>As thoſe were made to ſhine for a Surpriſe.</l>
+            </lg>
+            <lg>
+               <head>47.</head>
+               <l>Calm <hi>Orna</hi> fearleſs ſlept, ſince free from Sin,</l>
+               <l>And little did her Womans duty doubt,</l>
+               <l>Nor heard when ſhe had took the Traytors in,</l>
+               <l>Who through her Windows let her Honour out.</l>
+            </lg>
+            <lg>
+               <head>48.</head>
+               <l>And ſtill ſhe ſlept with as becalm'd a Breaſt,</l>
+               <l>As thoughtleſs Martyrs in a Monument,</l>
+               <l>Whilſt <hi>Gartha</hi> (whoſe Succeſs her Cares encreas'd)</l>
+               <l>Shifts her Diſguiſe, and to her Palace went.</l>
+            </lg>
+            <lg>
+               <pb n="26" facs="tcp:132853:14"/>
+               <head>49.</head>
+               <l>Where <hi>Hubert</hi> longingly expects that ſhe</l>
+               <l>The reaſon of her Abſence ſhould unfold,</l>
+               <l>Who big with Plot longs for delivery,</l>
+               <l>And thinks Succeſſes loſt that are not told.</l>
+            </lg>
+            <lg>
+               <head>50.</head>
+               <l>With <hi>Hermegild</hi> ſhe haſtily arrives,</l>
+               <l>Where when ſhe <hi>Hubert</hi> and bold <hi>Borgio</hi> ſpi'd,</l>
+               <l>Her Anger ſeem'd to threaten Lovers Lives,</l>
+               <l>And at her Frowns has many a Lover dy'd.</l>
+            </lg>
+            <lg>
+               <head>51.</head>
+               <l>The two fierce Leaders gravely thoughtful grow</l>
+               <l>Like ſcar'd Aſtrologers, as griev'd to take</l>
+               <l>From this new Comet in her threatening Brow,</l>
+               <l>The Empires Doom, and thus her Paſſion ſpake.</l>
+            </lg>
+            <lg>
+               <pb n="27" facs="tcp:132853:14"/>
+               <head>52.</head>
+               <l>Wild Rumour, which from Court to <hi>Breſcia</hi> fled,</l>
+               <l>Has brought you here bright in your Angers Flame,</l>
+               <l>You, <hi>Hubert,</hi> who in War have others led,</l>
+               <l>Now for your own chief Guide chuſe common Fame.</l>
+            </lg>
+            <lg>
+               <head>53.</head>
+               <l>At <hi>Gondibert</hi>'s Succeſs, and new Renown</l>
+               <l>Your ſick Ambition in a Fever ſeems;</l>
+               <l>Which from the Camp ſo drives you to the Town,</l>
+               <l>As fev'riſh men ſhift Beds to change their Dreams.</l>
+            </lg>
+            <lg>
+               <head>54.</head>
+               <l>Back to your Camp, and come not here to boaſt</l>
+               <l>Of numerous Enſigns, which but ſeldom are</l>
+               <l>By Valour gain'd, tho oft by Cowards loſt,</l>
+               <l>Rags which the Beggar Honour wears in War.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:132853:15"/>
+               <head>55.</head>
+               <l>Dull force cannot wiſe Courts with threatnings fright,</l>
+               <l>Who breed ſtrong not in Helmets but in Heads,</l>
+               <l>Thoſe Battles which you know not why you fight,</l>
+               <l>And whilſt you frown in Fields, ſmile in their Beds.</l>
+            </lg>
+            <lg>
+               <head>56.</head>
+               <l>More had ſhe ſaid, but ſtudious <hi>Hermegild</hi>
+               </l>
+               <l>Begg'd with his Looks, grown pale with Lovers Cares,</l>
+               <l>That her bold Paſſion would to Prudence yield,</l>
+               <l>And thus to <hi>Hubert</hi> he his Mind declares.</l>
+            </lg>
+            <lg>
+               <head>57.</head>
+               <l>Think not great Prince, that our Deſigns are ſlow,</l>
+               <l>But think your Courage makes a dang'rous haſt;</l>
+               <l>The Cures of Inward Wounds then doubtful grow</l>
+               <l>To Art, when outwardly they heal too faſt.</l>
+            </lg>
+            <lg>
+               <pb n="29" facs="tcp:132853:15"/>
+               <head>58.</head>
+               <l>The Duke's Adoption is a tender Wound,</l>
+               <l>Which cannot rough and haſty hands endure,</l>
+               <l>By gentle ſearch are narrow Arteries found,</l>
+               <l>Where we the Spirits cloſer Walks ſecure.</l>
+            </lg>
+            <lg>
+               <head>59.</head>
+               <l>Think not the Wounds ill ſearcht, which Artiſts cloſe,</l>
+               <l>Whilſt you to open it grow raſhly bold;</l>
+               <l>As men ill cur'd haſte deſp'ratly to Blows,</l>
+               <l>Becauſe new Wounds may launce and cure the old.</l>
+            </lg>
+            <lg>
+               <head>60.</head>
+               <l>Your Station is on Hills, your Glories all</l>
+               <l>Watch as a Beacon, that does bid 'em Arm,</l>
+               <l>And here your Name but whiſper'd, ſerves to call</l>
+               <l>The ſleeping Faction like a new Alarm.</l>
+            </lg>
+            <lg>
+               <pb n="30" facs="tcp:132853:16"/>
+               <head>61.</head>
+               <l>Retire, tho like the Sun declin'd you keep</l>
+               <l>Your Circle ſtill, and give to others Light,</l>
+               <l>Since we muſt wiſh your Enemies a-ſleep,</l>
+               <l>Give us betimes the benefit of Night.</l>
+            </lg>
+            <lg>
+               <head>62.</head>
+               <l>Preſerve your Camp, no Force but of the Mind</l>
+               <l>Can make our way, and when ſuch Force you doubt,</l>
+               <l>Think then that Giants, loth to die, can bind</l>
+               <l>And maſter Souls with Limbs from going out.</l>
+            </lg>
+            <lg>
+               <head>63.</head>
+               <l>
+                  <hi>Hubert</hi>'s loſt Patience, he did thus reſtore,</l>
+               <l>Then <hi>Gartha</hi> with ſuch Reverence he did chide,</l>
+               <l>As Indian Prieſts in Storms check and adore</l>
+               <l>Their Idols Rage, but <hi>Hubert</hi> thus repli'd.</l>
+            </lg>
+            <lg>
+               <pb n="31" facs="tcp:132853:16"/>
+               <head>64.</head>
+               <l>Who doubts your Wiſdom, <hi>Hermegild,</hi> which long</l>
+               <l>Has led fierce Armies, and calm Councils taught,</l>
+               <l>Muſt the worlds Miſtreſs, grave Experience wrong,</l>
+               <l>As if ſhe wanted Worth, which all have ſought.</l>
+            </lg>
+            <lg>
+               <head>65.</head>
+               <l>Such who play with Truth, are puniſht by</l>
+               <l>Derided Anguiſh, till they ſerious turn,</l>
+               <l>As wanton Scepticks, who Effects deny?</l>
+               <l>Of Fire, ſee others ſmiling whilſt they burn.</l>
+            </lg>
+            <lg>
+               <head>66.</head>
+               <l>Your Faith to me, your love of <hi>Gartha</hi> binds,</l>
+               <l>Which doubting, I her force of Beauty doubt</l>
+               <l>A Light held up, when Courts tempeſtuous Winds</l>
+               <l>Threaten to blow Heavens Lamps, the Planets out.</l>
+            </lg>
+            <lg>
+               <pb n="32" facs="tcp:132853:17"/>
+               <head>67.</head>
+               <l>Think my Impatience is the Armies Sin,</l>
+               <l>And if when <hi>Gartha</hi> with my wrong's is warm'd,</l>
+               <l>Your Power can hardly keep her Paſſions in,</l>
+               <l>How ſhould I ſtop three angry Legions arm'd?</l>
+            </lg>
+            <lg>
+               <head>68.</head>
+               <l>Her Anger Heavenly is, for as kind Heaven</l>
+               <l>Grieves that our own advantage we decline</l>
+               <l>By doing ill; ſo her Rebukes are given,</l>
+               <l>Becauſe ſhe ſuffers when the Loſs is mine.</l>
+            </lg>
+            <lg>
+               <head>69.</head>
+               <l>Victorious Maid, I find deep Wounds of Cares</l>
+               <l>On your fair Brow; but ſo by Beauty ſhown,</l>
+               <l>As youthful Victors wear their boaſted Scars,</l>
+               <l>To make their Vertue more than Beauty known.</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="tcp:132853:17"/>
+               <head>70.</head>
+               <l>Tell me the Empire's ſafe, and tell me where</l>
+               <l>You and your Faction have ſo early met;</l>
+               <l>To humble thoſe who are ſo proud to fear,</l>
+               <l>That at your Dawn their Sun muſt ever ſet.</l>
+            </lg>
+            <lg>
+               <head>71.</head>
+               <l>
+                  <hi>Gartha</hi> from each to all now ſhifts her Eyes,</l>
+               <l>As if too wild, and proud to be confin'd,</l>
+               <l>So proud with Praiſe, that ſhe does Praiſe deſpiſe,</l>
+               <l>And ſpreads like Sails ſwell'd with a proſp'rous Wind.</l>
+            </lg>
+            <lg>
+               <head>72.</head>
+               <l>Her Words abound, as Maids firſt Stories flow,</l>
+               <l>When to ſtoln Lovers they from Parents ſcape,</l>
+               <l>And faſt ſhe ſpeaks, as Scouts chas'd by the Foe</l>
+               <l>Declare their Number, and their Battles ſhape.</l>
+            </lg>
+            <lg>
+               <pb n="34" facs="tcp:132853:18"/>
+               <head>73.</head>
+               <l>She tells how ſcarce from man ſhe knew,</l>
+               <l>When ſo audacious made by her Diſguiſe,</l>
+               <l>How ſoon her treble Voyce a Tenour grew,</l>
+               <l>Her baſhful Looks, bolder than Eagles Eyes.</l>
+            </lg>
+            <lg>
+               <head>74.</head>
+               <l>She makes her ſecret Progreſs fully known,</l>
+               <l>And how falſe <hi>
+                     <g ref="char:V">Ʋ</g>lpha</hi> aided the Succeſs;</l>
+               <l>Whoſe Treaſon though ſhe ſcorn'd, ſhe grac'd her own,</l>
+               <l>As Traytors Greatneſs makes their Treaſon leſs.</l>
+            </lg>
+            <lg>
+               <head>75.</head>
+               <l>Whilſt thus her mourning Conqueſt ſhe reports,</l>
+               <l>Their forward hopes ſhrunk back &amp; ſeem'd diſmaid</l>
+               <l>To be inſtead of Sovereign Gold, with Courts</l>
+               <l>Small Plots (the common Coyn of Stateſmen) paid.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:132853:18"/>
+               <head>76.</head>
+               <l>Then thus ſpake <hi>Hermegild</hi> to higheſt Heights,</l>
+               <l>The loweſt Steps muſt be the firſt Degrees,</l>
+               <l>The ſtrongeſt ſtoop to carry greater Weights,</l>
+               <l>And from conceal'd ſmall Roots, ſpring lofty Trees.</l>
+            </lg>
+            <lg>
+               <head>77.</head>
+               <l>Nature diſguis'd, does oft from Lowneſs riſe,</l>
+               <l>To high Effects; ſo does her Servant Art,</l>
+               <l>Courts which by Art ſubſiſt, and low Diſguiſe</l>
+               <l>Oft dreſs a King to play a Subject's part.</l>
+            </lg>
+            <lg>
+               <head>78.</head>
+               <l>Theſe Clouds which threaten <hi>Hurgonil,</hi> e'r long</l>
+               <l>Shall o'r the ſleeping Duke a Tempeſt breed;</l>
+               <l>As weaker Winds may ſuddainly grow ſtrong,</l>
+               <l>And ſplit a Maſt, which firſt ſcarce ſhook a Reed.</l>
+            </lg>
+            <lg>
+               <pb n="36" facs="tcp:132853:19"/>
+               <head>79.</head>
+               <l>The World is not ſubdu'd by Victories,</l>
+               <l>Nor by the Voyce of Publick Councils ſway'd,</l>
+               <l>'Tis being wild beſt conquer'd by Surpriſe,</l>
+               <l>And eaſi'ſt rul'd, when to the Yoke betray'd.</l>
+            </lg>
+            <lg>
+               <head>80.</head>
+               <l>Wiſe Courts for Man have many a little Snare</l>
+               <l>In Cities (now grown wild as Forreſts) ſpread</l>
+               <l>To take the uſeful Beaſt alive, whom War</l>
+               <l>Deſtroyes, tho he be uſeleſs being dead.</l>
+            </lg>
+            <lg>
+               <head>81.</head>
+               <l>Now <hi>Borgio,</hi> who with Hopes ſwell'd Sails had ſteer'd,</l>
+               <l>Grows troubleſom, as Sails then ſtrong winds change</l>
+               <l>Like Sails he ſlackn'd, when his Hope laveer'd,</l>
+               <l>And ſeem'd as much a ſtorm, as ſtorms ſeem ſtrange.</l>
+            </lg>
+            <lg>
+               <pb n="37" facs="tcp:132853:19"/>
+               <head>82.</head>
+               <l>Invite, ſaid he, State Student to your Feaſt</l>
+               <l>Of Ruling Councils, an inſipid Food.</l>
+               <l>When <hi>Canibal</hi> Ambition is your Gueſt,</l>
+               <l>Who is not fed with Precepts, but with Blood.</l>
+            </lg>
+            <lg>
+               <head>83.</head>
+               <l>Poorly you make us fall from publick Heights,</l>
+               <l>To private Depths; and all your great Deſigns,</l>
+               <l>Are ſubt'ly ſhrunk to Lovers little Slights,</l>
+               <l>Your <hi>Indian</hi> Voyage was to Copper Mines.</l>
+            </lg>
+            <lg>
+               <head>84.</head>
+               <l>The Duke's Adoption by the King is ſeal'd,</l>
+               <l>The Count by Marriage plight to <hi>Orna</hi> ti'd,</l>
+               <l>Faſt by Confederate the Crown is held,</l>
+               <l>And we watch hard to ſcare a ſleeping Bride.</l>
+            </lg>
+            <lg>
+               <pb n="38" facs="tcp:132853:20"/>
+               <head>85.</head>
+               <l>Accurs'd be Courts where you, wiſe Stateſmen,</l>
+               <l>Your ſelves, and not your Maſter great, you keep</l>
+               <l>Your Watch with falſe Alarms, and only wake</l>
+               <l>To breed thoſe Fears, which hinder others ſleep.</l>
+            </lg>
+            <lg>
+               <head>86.</head>
+               <l>Falſhood condemn'd you free from publick good,</l>
+               <l>Bind Truth to the Authority of Schools,</l>
+               <l>Leaſt in your Prieſts you ſhould be underſtood,</l>
+               <l>Prieſts you make falſe, and they confirm you Fools.</l>
+            </lg>
+            <lg>
+               <head>87.</head>
+               <l>Tho humbly firſt you low as Serpents crawl,</l>
+               <l>Yet ſoon you ſhow your power, which is your Sting.</l>
+               <l>Wildly you catch at him, when you muſt fall</l>
+               <l>Who by your Weights grows weak, your govern'd King.</l>
+            </lg>
+            <lg>
+               <pb n="39" facs="tcp:132853:20"/>
+               <head>88.</head>
+               <l>Greedy as Lyons o'r your trembling Prey,</l>
+               <l>Rowling your Eyes about with Jealous Care,</l>
+               <l>For fear ſome other ſtrong Devourer may</l>
+               <l>In what you long have hunted, quickly ſhare.</l>
+            </lg>
+            <lg>
+               <head>89.</head>
+               <l>You ſell the Peace that with your Blood you bought,</l>
+               <l>Then in your Cloſſets other Quarrels feign</l>
+               <l>To break that Peace, for which like Fools we fought</l>
+               <l>And make the People purchaſe it again.</l>
+            </lg>
+            <lg>
+               <head>90.</head>
+               <l>At this old <hi>Hermegild</hi> renounc'd his Age,</l>
+               <l>For heat of Anger made his Viſage young,</l>
+               <l>And ſoon in Words he would let looſe his Rage,</l>
+               <l>But <hi>Gartha</hi> ſooner thus prevents his Tongue.</l>
+            </lg>
+            <lg>
+               <pb n="40" facs="tcp:132853:21"/>
+               <head>91.</head>
+               <l>Is this your Lyon <hi>Hubert,</hi> whom you bring</l>
+               <l>In terrour from his Canvas Cage, your Tent,</l>
+               <l>That by inſtinct he may to free the King</l>
+               <l>Roar, if he find him not of Kings Deſcent.</l>
+            </lg>
+            <lg>
+               <head>92.</head>
+               <l>Or would he cure Courts tame Civility?</l>
+               <l>Or muſt the Ladies yield to him for fear?</l>
+               <l>Soon a diſpis'd dead Lyon ſhall he be,</l>
+               <l>If he pronounce his Savage Doctrine here.</l>
+            </lg>
+            <lg>
+               <head>93.</head>
+               <l>Rebels to Courts, the Force of uſeful Power,</l>
+               <l>Where Stateſmen ſhould be ſafe tho vext with Cares,</l>
+               <l>To reſcue whom your Fury would devour,</l>
+               <l>They breed not War for you, but you for Wars.</l>
+            </lg>
+            <lg>
+               <pb n="41" facs="tcp:132853:21"/>
+               <head>94.</head>
+               <l>Courts form'd not War to keep the World alarm'd,</l>
+               <l>Or vex the Quiet, but to tame the Rude,</l>
+               <l>To Right whom Tumults wrongfully have harm'd,</l>
+               <l>And Conquer thoſe who have the good ſubdu'd.</l>
+            </lg>
+            <lg>
+               <head>95.</head>
+               <l>Courts your wiſe Maſters, did invent the odds</l>
+               <l>Of Camps o'r Crowds, you muſter'd by your wills,</l>
+               <l>Would now like Ruffian Giants brave your Gods,</l>
+               <l>Who ſmile in Clouds to ſee you heave at Hills.</l>
+            </lg>
+            <lg>
+               <head>96.</head>
+               <l>How wildly would the World be Rul'd, if left</l>
+               <l>By Civil Courts to your uncivil Sway?</l>
+               <l>Juſtice would hardly dare to bluſh at Theft,</l>
+               <l>Nor Prieſts to ſigh, when Prieſts become their Prey.</l>
+            </lg>
+            <lg>
+               <pb n="42" facs="tcp:132853:22"/>
+               <head>97.</head>
+               <l>What are your Battles where Ambition tries</l>
+               <l>Thoſe Titles which avoid the Teſt of Law,</l>
+               <l>Battles, the Worlds confuſed Lotteries,</l>
+               <l>Where for the Prize thouſands together draw.</l>
+            </lg>
+            <lg>
+               <head>98.</head>
+               <l>Like mighty Murtherers you Honour boaſt,</l>
+               <l>Ofener by Chance than Valour give Defeats;</l>
+               <l>Vainly like Gameſters count not what you loſt,</l>
+               <l>But what you won, hiding your baſe Retreats.</l>
+            </lg>
+            <lg>
+               <head>99.</head>
+               <l>By wretched Rapine urg'd to bold Attacks,</l>
+               <l>And when a City even by Treaty yields,</l>
+               <l>You oft out do the Fame of <hi>Gothick</hi> Sacks,</l>
+               <l>And where they City's left, leave deſart Fields.</l>
+            </lg>
+            <lg>
+               <pb n="43" facs="tcp:132853:22"/>
+               <head>100.</head>
+               <l>And when your conquering Train comes home quite tir'd</l>
+               <l>With emptying Cities, and with filling Graves,</l>
+               <l>Your Foreign Vices are at firſt admir'd,</l>
+               <l>'Till low you fall in Riots as your Slaves.</l>
+            </lg>
+            <lg>
+               <head>101.</head>
+               <l>Now <hi>Hubert</hi> did arreſt her pleading hand,</l>
+               <l>Which earneſt grew, &amp; did her Tongue out-plead,</l>
+               <l>His Looks did <hi>Borgio</hi>'s Silence ſoon command,</l>
+               <l>And on her Hand he Tears of kindneſs ſhed.</l>
+            </lg>
+            <lg>
+               <head>102.</head>
+               <l>And that ſweet Pledge with fervent Kiſſes held,</l>
+               <l>As faſt as Lovers then that fair Hand hold,</l>
+               <l>Which has the long ſought Promiſe newly ſeal'd,</l>
+               <l>Whe Rivals hopes grow warm, &amp; theirs grow cold<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <pb n="44" facs="tcp:132853:23"/>
+               <head>103.</head>
+               <l>He ſaid ſhe was Heavens private Mirrour wrought,</l>
+               <l>For Kings that they might ſecret Truths diſcern;</l>
+               <l>He prais'd the Court, that her ſuch greatneſs taught</l>
+               <l>As only Courts can teach, and Princes learn.</l>
+            </lg>
+            <lg>
+               <head>104.</head>
+               <l>Now with one Mind to ſeveral Cares they hie;</l>
+               <l>She haſtes to Court to haſten <hi>Orna</hi>'s ſhame:</l>
+               <l>And both the Chiefs diſguis'd to <hi>Breſcia</hi> fly,</l>
+               <l>Thro Miſts returning as in Crowds they came.</l>
+            </lg>
+            <lg>
+               <head>105.</head>
+               <l>
+                  <hi>Iubert</hi> will wait till her Deſigns appear</l>
+               <l>In larger Growth, for He was bred to ſow</l>
+               <l>Courts little Fields, and well he knew that there</l>
+               <l>Small Rivals oft to mighty Miſchiefs grow.</l>
+            </lg>
+            <lg>
+               <pb n="45" facs="tcp:132853:23"/>
+               <head>106.</head>
+               <l>They look but wrong on Courts who can derive</l>
+               <l>No great Effects from outward Littleneſs;</l>
+               <l>Thro Fooliſh Scorn they turn the Proſpective,</l>
+               <l>And ſo contract Courts little things to leſs.</l>
+            </lg>
+            <lg>
+               <head>107.</head>
+               <l>Man's little Heart in narrow ſpace does hide</l>
+               <l>Great Thoughts, ſuch as have ſpacious Empire ſway'd</l>
+               <l>The little Needle does vaſt Carricks guide,</l>
+               <l>And of ſmall Atoms were the Mountains made.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:132853:24"/>
+            <head>
+               <hi>Books Printed for, and ſold by</hi> William Mil<g ref="char:EOLhyphen"/>ler, <hi>at the</hi> Gilded Acorn, <hi>in Saint</hi> Paul<hi>'s Church-yard, near the little</hi> North-Door.</head>
+            <p>
+               <hi>Juvenal</hi> with Cuts, by Sir <hi>Robert Stapylton,</hi> Knight, in Large <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>Elton</hi> on <hi>Coloſſians, Folio.</hi>
+            </p>
+            <p>Dean <hi>Hardy</hi>'s Sermons on ſeveral Texts of Scripture on di<g ref="char:EOLhyphen"/>vers Occaſions, <hi>Quarto.</hi>
+            </p>
+            <p>A Letter of Advice concerning Marriage, <hi>Quarto.</hi>
+            </p>
+            <p>A Pattern for Princes to Rule by, and Subjects to Obey by, <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Dod</hi> on the Lord's Prayer, <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Medice Cura Teipſum,</hi> or the Apothecary's Plea againſt Do<g ref="char:EOLhyphen"/>ctor <hi>Chriſtopher Merret, Quarto.</hi>
+            </p>
+            <p>
+               <hi>Cradock</hi>'s Knowledge and Practice, <hi>Quarto.</hi>
+            </p>
+            <p>His Principles, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Richard Ward,</hi> his two very uſeful and compendious Theo<g ref="char:EOLhyphen"/>logical Treatiſes, the firſt ſhewing the nature of Wit, Wiſdom and Folly. The ſecond deſcribing the Nature, Uſe, and A<g ref="char:EOLhyphen"/>buſe of the Tongue and Speech, whereby principally Wiſdom and Folly are expreſſed; wherein alſo are divers Texts of Scripture, touching the reſpective Heads explained, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Templum Muſicum,</hi> or the Muſical Synopſis, <hi>Octavo.</hi>
+            </p>
+            <p>Complete Bone-ſetter, <hi>Octavo.</hi>
+            </p>
+            <p>The famous Game of Cheſs-play, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Shelton</hi>'s Tachygraphia, Latine, <hi>Octavo.</hi>
+            </p>
+            <p>Emblems Divine, Moral, Natural and Hiſtorical, expreſſed
+<pb facs="tcp:132853:24"/>in Sculpture, and applied to the ſeveral Ages, Occaſions and Conditions of Man, by a Perſon of Quality, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Vines</hi> on the Sacrament, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Betto de Ortu Sanguinis, Octavo.</hi>
+            </p>
+            <p>
+               <hi>Beverly</hi>'s great Soul of man, or the Soul in its likeneſs to God, <hi>Octavo.</hi>
+            </p>
+            <p>Pill to purge Popery, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Warren</hi>'s Catechiſm, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Fettiplace</hi>'s Souls narrow ſearch for ſin, <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Fettiplace</hi>'s Chriſtian Monitor, earneſtly and compaſſionately perſwading ſinners unto true and timely repentance, by the ſerious view of the ſeven following weighty Crnſiderations.</p>
+            <p n="1">1. The ſtupendious love of God unto man in Chriſt Jeſus.</p>
+            <p n="2">2. The great danger of Deſpair, and greater of Preſump<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="3">3. The ſweetneſs, eaſineſs and pleaſantneſs of the ways of God.</p>
+            <p n="4">4. Falſhood and Flattery of the ways of ſin.</p>
+            <p n="5">5. Safe, joyful and bleſſed ſtate of the righteous.</p>
+            <p n="6">6. Dangerous and moſt deplorable ſtate of the wicked.</p>
+            <p n="7">7. Shortneſs and uncertainty of Life, terrors and amaze<g ref="char:EOLhyphen"/>ment of an unprepared death, and eternity of puniſhments after death, <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>Clark</hi> of Comfort, which God's Children have, or at leaſt earneſtly deſire and long after, whilſt they are in this World, together with the obſtructions of Comfort, and the removal of them, <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>Jeoffery</hi>'s New-years Gift, <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>Clark</hi>'s Looking-glaſs for Perſecutors.</p>
+            <p>
+               <hi>Mall</hi> of Holy Living and Dying, <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>Clark</hi>'s Treatiſe about Comfort, <hi>Twelves.</hi>
+            </p>
+            <p>The Life of Mrs. <hi>Clark,</hi> late Wife of Mr. <hi>Samuel Clark, Twelves.</hi>
+            </p>
+            <p>Wit revived, an excellent way of Divertiſement in Queſti<g ref="char:EOLhyphen"/>ons and Anſwers, <hi>Twelves.</hi>
+            </p>
+            <pb facs="tcp:132853:25"/>
+            <p> 
+               <hi>Martial</hi>'s Epigrams for the uſe of <hi>Weſtminſter</hi> School.</p>
+            <p>Divine Examples of God's ſevere Judgements upon Sab<g ref="char:EOLhyphen"/>bath-breakers, in their unlawful Sports, collected out of ſeve<g ref="char:EOLhyphen"/>ral Divine Subjects, <hi>viz.</hi> Mr. <hi>H. B.</hi> Mr. <hi>Beard,</hi> and the Practice of Piety, a little Monument of our preſent Times, <hi>&amp;c.</hi>
+            </p>
+            <p>A brief Remembrance, or the right Improvement of Chriſt's Birth-day.</p>
+            <p>A ſecond Sheet of old Mr. <hi>Dod</hi>'s Sayings; or another Poſie gathered out of Mr. <hi>Dod</hi>'s Garden.</p>
+            <p>Hunting for Money, the firſt Part.</p>
+            <p>The hunting Match for money, the ſecond Part.</p>
+            <p>Biſhop <hi>Hall</hi>'s Sayings, concerning Travellers, to prevent Popiſh and debauched Principles.</p>
+            <p>The whole Duty of Man, containing a Practical Table of the ten Commandments, wherein the Sins forbidden, and the Duties commanded, or implied, are clearly diſcovered. By Famous Mr. <hi>William Perkins.</hi>
+            </p>
+            <p>
+               <hi>Broughes</hi> Sacred Principles in Welch, <hi>Octavo.</hi>
+            </p>
+            <p>Biſhop <hi>Prideaux</hi> on the Lord's Prayer in Welch, <hi>Twelves.</hi>
+            </p>
+            <p>Biſhop <hi>Uſher</hi>'s Catechiſm in Welch, <hi>Twelves.</hi>
+            </p>
+            <p>With divers other Welch Books.</p>
+            <p>At which place you may be furniſhed with moſt ſorts of bound or ſtitch'd Books; as Acts of Parliament, Proclamati<g ref="char:EOLhyphen"/>ons, Speeches, Declarations, Letters Orders, Commiſſions, Articles, with other State Matters; as alſo Books of Divini<g ref="char:EOLhyphen"/>ty, Church-Government, Sermons, and moſt ſorts of Hiſtories, Poetry, Plays, and ſuch like, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132853:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
